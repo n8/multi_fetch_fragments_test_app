@@ -43,3 +43,5 @@ gem 'dalli'
 
 # To use debugger
 gem 'debugger'
+
+gem "multi_fetch_fragments", "0.0.2"
