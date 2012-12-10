@@ -1,0 +1,10 @@
+
+<% start = Time.now %>
+
+<% for item in @items %>
+  <% cache item do %>
+    <%= render partial: "/item", object: item %>
+  <% end %>
+<% end %>
+
+Finished in: <%= (Time.now - start)*1000 %> ms. 
