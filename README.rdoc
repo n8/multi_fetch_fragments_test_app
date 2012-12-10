@@ -1,7 +1,7 @@
 Multi-fetch Fragments Test App
 ===========
 
-This is an app used to performance test the Multi-fetch Fragments gem. 
+This is an app used to performance test the [Multi-fetch Fragments gem](https://github.com/n8/multi_fetch_fragments). 
 
 
 
