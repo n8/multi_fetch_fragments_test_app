@@ -13,7 +13,7 @@ class ApplicationController < ActionController::Base
 
 protected
   def set_items
-    @items = (1..30).to_a
+    @items = (1..50).to_a
   end
 
 end
