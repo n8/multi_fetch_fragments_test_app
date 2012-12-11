@@ -1,3 +1,8 @@
+PATH
+  remote: ../multi_fetch_fragments
+  specs:
+    multi_fetch_fragments (0.0.5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -62,7 +67,6 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.19)
-    multi_fetch_fragments (0.0.5)
     multi_json (1.5.0)
     newrelic_rpm (3.5.3.25)
     pg (0.14.1)
@@ -126,7 +130,7 @@ DEPENDENCIES
   dalli
   debugger
   jquery-rails
-  multi_fetch_fragments (~> 0.0.5)
+  multi_fetch_fragments (~> 0.0.5)!
   newrelic_rpm
   pg
   rails (= 3.2.9)
