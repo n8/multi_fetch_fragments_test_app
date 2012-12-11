@@ -48,6 +48,6 @@ gem 'debugger'
 
 gem 'newrelic_rpm'
 
-gem 'multi_fetch_fragments', '~> 0.0.6'
-# gem 'multi_fetch_fragments', '~> 0.0.5', path: "../multi_fetch_fragments"
+gem 'multi_fetch_fragments', '~> 0.0.8'
+# gem 'multi_fetch_fragments', '~> 0.0.7', path: "../multi_fetch_fragments"
 
