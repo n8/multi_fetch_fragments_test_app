@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.9'
+# gem 'rails', path: "../rails"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -44,4 +45,6 @@ gem 'dalli'
 # To use debugger
 gem 'debugger'
 
-gem 'multi_fetch_fragments', '~> 0.0.3'
+gem 'multi_fetch_fragments', '~> 0.0.5'
+# gem 'multi_fetch_fragments', '~> 0.0.5', path: "../multi_fetch_fragments"
+
