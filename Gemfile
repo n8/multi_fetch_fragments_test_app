@@ -46,6 +46,8 @@ gem 'dalli'
 # To use debugger
 gem 'debugger'
 
+gem 'newrelic_rpm'
+
 gem 'multi_fetch_fragments', '~> 0.0.5'
 # gem 'multi_fetch_fragments', '~> 0.0.5', path: "../multi_fetch_fragments"
 
